@@ -1,7 +1,3 @@
-Pull từ remote repository 
-Lệnh phục hồi về một phiên bản trước 
-Lệnh xem lịch sử các phiên bản 
-Lệnh tạo nhánh, xóa nhánh 
 Lệnh chuyển qua làm việc tại các nhán
 Lệnh merge từ các nhánh 
 Lệnh merge trong trạng thái xung đột 
